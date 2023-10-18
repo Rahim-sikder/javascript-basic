@@ -12,4 +12,5 @@ console.log(numbers);
 // find index of an index
 var positoIndex = numbers.indexOf(60);
 var positoIndex2 = numbers.indexOf(600);
-console.log(positoIndex,positoIndex2);
+var positoIndex3 = numbers.indexOf(40);
+console.log(positoIndex,positoIndex2,positoIndex3);
