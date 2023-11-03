@@ -1,6 +1,6 @@
 var money = 100;
-var danishPrice = 45;
-var butterBread = 35;
+var danishPrice = 145;
+var butterBread = 135;
 var toastBiscuit = 20;
  if (danishPrice < money){
    console.log("danish khamu");
