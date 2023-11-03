@@ -11,3 +11,8 @@ var mobile = {
    ram_size :' 128gb',
    price : 20000
 };
+console.log(mobile);
+console.log(mobile.brand);
+console.log(mobile.price);
+mobile.color = 'red'
+console.log(mobile.color);
